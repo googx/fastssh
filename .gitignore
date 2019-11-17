@@ -10,3 +10,50 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+*.iml
+*.swp
+*.ipr
+*.iws
+*.jpg
+.idea/
+*.o
+*.tar.gz
+.tmp/
+nohup.out
+*.log
+*.logs
+logs/
+output.txt
+__pycache__
+debug-*.json
+pkg/
+# wps and office
+~$*.docx
+~$*.doc
+~$*.xls
+~$*.xlsx
+~$*.ppt
+~$*.pptx
+.~lock*
+# wps office
+.ideaDataSources/
+dataSources/
+*.zip
+*.tar
+# c,cpp,go库文件.
+*.lib
+
+
+vendor/
+
+# webAssembly 相关
+
+*.wasm
+
+#cpp or c error file.
+core
+*.a
+# 项目环境
+
+*.time
+*.tmp
